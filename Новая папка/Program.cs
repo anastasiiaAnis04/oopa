@@ -12,6 +12,8 @@ namespace ConsoleApp
             int d = a - b;
             
             Console.WriteLine("Какой кошмар...");
+
+            Console.WriteLine("Да....");
         }
     }
 }
