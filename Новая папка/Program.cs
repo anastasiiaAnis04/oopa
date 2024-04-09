@@ -10,6 +10,8 @@ namespace ConsoleApp
             int c = a + b;
 
             int d = a - b;
+            
+            Console.WriteLine("Какой кошмар...");
         }
     }
 }
